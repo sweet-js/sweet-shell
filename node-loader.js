@@ -1,1 +1,1 @@
-module.exports = require('sweet-core/dist/node-loader');
+module.exports = require('@sweet-js/core/dist/node-loader');
