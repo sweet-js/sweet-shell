@@ -1,2 +1,2 @@
 #!/usr/bin/env node
-require('sweet-cli/bin/sjs');
+require('@sweet-js/cli/bin/sjs');
