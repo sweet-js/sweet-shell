@@ -1,6 +1,6 @@
 {
   "name": "sweet.js",
-  "version": "3.0.11",
+  "version": "3.0.12",
   "description": "Deprecated package, use sweet-cli or sweet-core instead",
   "main": "index.js",
   "bin": {
