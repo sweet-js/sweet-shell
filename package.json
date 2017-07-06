@@ -1,6 +1,6 @@
 {
   "name": "sweet.js",
-  "version": "3.0.12",
+  "version": "3.0.13",
   "description": "Deprecated package, use sweet-cli or sweet-core instead",
   "main": "index.js",
   "bin": {
@@ -26,7 +26,7 @@
   ],
   "license": "BSD-2-Clause",
   "dependencies": {
-    "@sweet-js/cli": "3.0.10",
-    "@sweet-js/core": "3.0.10"
+    "@sweet-js/cli": "3.0.11",
+    "@sweet-js/core": "3.0.11"
   }
 }
